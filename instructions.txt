@@ -1,0 +1,13 @@
+Instructions
+1st we have to make game loop either you make setInterval or requestAnimationFrame but you will repeat again inside the function to make the game loop
+2nd Control Speed
+3rd darw snake 
+4th Move the snake 
+5th Place the snake one by one
+6th snake don't repeat their direction 
+7th Draw food 
+8th Eat food
+9th Increase the snake length
+10th dont place the food inside the snake
+11 increment the score
+12 Game Over
